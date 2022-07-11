@@ -1,0 +1,85 @@
+ 1-)Handy 6-PAGE laminated guide is a concise desktop reference to key concepts behind #Python logic, syntax, and operation (importing other libraries, formatting output strings, creating classes, etc.): http://
+ 2-)SQL cheatsheet#MachineLearning #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #NodeJS #golang #NLP
+ 3-)A simple lexical analyer (tokenizer) with #Python regular expressions. Uses regex verbose mode "(?x)", and match.lastgroup to know what kind of token was found.
+ 4-)Thought I'd stop by and anger some people #RStats #Python #DataAnalytics
+ 5-)HERE are all the Data Structures in Python #MachineLearning #DataScience #SQL #Cybersecurity #BigData #AI #Python #JavaScript #DataScientist #Linux #techedcs #100DaysofCode #womenintech
+ 6-)This is how I'll be spending my summer. If you have any other applied data science book recommendations, let me know.  #DataScience #marketinganalytics #DataAnalytics  #Python #SQL
+ 7-)Wishing all our users #EidMubarak !
+
+May Almighty bless you All !#100DaysOfCode #gamedev #indiedev #indiegames #gamedevelopment #python #pikmin #roblox #RobloxDev #blockchain #web3social #data #datascience #javascript #NFT #NFTs #ai #technews #web3 #EidAlAdha
+ 8-)Day 6 | #100DaysOfCode #Python 
+Reeborg's World - Maze Challenge
+ 9-)Raise your hand if you're learning Python.  If you’re looking to supplement your education, check out these 5 #Python books that can help take you from newbie to expert.
+ 10-)[NEW] Excellent book from @PacktPublishing now available >> "Hands-On Data Preprocessing in #Python" at http:// by @JafariRoy 
+—————#BigData #Analytics #DataScience #AI #MachineLearning #DataScientists #DataPrep #DataWranging #DataLiteracy #100DaysOfCode
+ 11-) Weekend Giveaway Giving FREE copies of this book to Python Beginners who need some practice.
+
+Like, Retweet and Comment below if you need one,then DM me. Only for the weekend.#100DaysOfCode #dataScientist #TensorFlow #Python
+ 12-)This week we're having fun making a #FastAPI #API that launches #Celery #MachineLearning  tasks via RabbitMQ as Message Broker.#dev #MLOps #Kubernetes #tech #Python #Web3
+ 13-)Thoughts #Python #Nodejs #MachineLearning #100daysofmlcode #HTML5 #RStats #1000xgem #Serverless #AI #Flutter #Java #Developer #developers #IoT #100daysofcode #Analytics #javascript #TensorFlow #pythonlearning #technology #security #programming #programmer #code #coding
+ 14-)#ArtificialIntelligence timeline #Algorithms #DataScience #Python #programming #Cloud #AI #Analytics #Data #flutter #Serverless #ML #NLP #digitalhealth #5G #datasets #BigData #Rstats #100DaysOfCode #IoT #neuralnetwork #ethics #MachineLearning #DataScience #research #Automation
+ 15-)How to send a tweet with #Python and TweePy in under 10 lines of code
+ 16-)Ever wanted to learn programming
+
+I have video courses that would teach you #Angular, #ASP, #backboneJs, #Javascript, #React, #Reactnative, #python, #NodeJS, #redux, #sqlComment interested and I'll send it to you for free
+
+Make sure you're following me though
+ 17-)There is a big debate on whether you should learn #RStats (#r) or #Python for #bioinformatics but maybe that’s the wrong way to frame this question? https:///python-course-1-getting-started-with-bioinformatics…
+ 18-)Highest Paying Jobs as a Developer  Retweet to share information#Python3 #programming #Python #Java #javascript #cybersecurity  #Coding #100DaysOfCode #ML #AI #CodeNewbie #KnowProgramNotes are Available  - Python, C, C++, Java, etc....
+Visit:- https://
+ 19-)Anatomy of Pandas data structures#Pandas is a popular #Python library for data wrangling. 
+
+1. Series - a list of data elements (yellow) + Index
+2. DataFrame - a 2D matrix comprising of Series (arranged as both column or row)
+3. Index - row names (blue) or column names (red)
+ 20-) Day 3..!#python #HackerRank#100DaysOfCode> Functions
+ 21-)Day 4 of #100DaysOfCode 
+
+ I learnt: Random module,offset and appending items to list,working with nested list in #python With Dr. Angela Yu in Udemy’s Python Bootcamp 2022
+I’m building my coding muscles Day 4 Project: Rick,Paper,Scissors
+ 22-)Check out my Gig on Fiverr: I will do 3 modern creative minimalist logo design https:// #logo #design #Mufc #HJPatel #blogger #PyTorch #machinelearning #DataScience #Python #TensorFlow #JavaScript #ReactJS #Flutter #CloudComputing  #WomenWhoCode #100DaysOfCode
+ 23-)Day 5 | #100DaysOfCode #Python 
+Password Generator
+ 24-)#100DaysOfCode day 28:
+Sending emails with SMTP in #python. 
+Projects:
+Quote of the day
+Birthday wishes
+
+starting to feel like a #webdeveloper again...#100daysofcodechallenge #100daysofpython
+ 25-)Day 186 of #365DaysOfCode 
+
+Continuing to work on this web app project! Getting a little refresher on web dev #womenwhocode #DataScience #Python #100daysofcodechallenge #100DaysOfCode #SQL
+ 26-)Day 10 completes of #100daysofpython practice  functions with outputs and recursion
+1 -  Days in month of leap year  
+2 - Runtime calculation calculator
+and many more. Excited for the 11th day and his challenges #100DaysOfCode   #100daysofcodechallenge #Python #codechallenge
+ 27-)So I decided to program my own football/soccer event map ahead of next season. Here it is.#coding #codinglife #python #programming #soccerstats
+ 28-)As you can guess, this #Python program prints "Hello, world!".  But how!?   Also: don't do this! 
+ 29-)The #Metaverse Becoming The Most #Admired Venue For #Retailershttp:// #cryptocurrencies #MachineLearning #AI #Python #DeepLearning #100DaysOfCode #fintech #nocode #bitcoin #cybersecurity #cybersecurite #metaverse #NFTs #web3
+ 30-)#SQL Commands..!#100DaysOfCode #coder #cybersecurity #bigdata #javascript #technology #java #pythonprogramming #pythoncode #JobSearch #job #tech #IIoT #python #IoT #Online #ai #DataAnalytics #ML #datascience #AI #job #pythonlearning #computerscience #Online #Python #IoT
+ 31-)#In#Infographic: #MachineLearning #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #Python #RStats #TensorFlow #blockchain #ReactJS #CloudComputing #DataScientist #Programming #100DaysofCode #NodeJS #golang #NLP #GitHub #MLOps #AWS  #javascript
+ 32-)No. 2560 programming meme #programmingjoke #code #coding #javascript #python #datascience #programming #programmer #joke #100daysofcode #webdev #webdevelopment #php #java #linux #css #programmingmemes #codinglife #codingpics #programmingjokes
+ 33-)Recursively adding random primes in doubly linked list
+
+By Atish Jain
+-Coding-Career-Expert
+
+ #Python #MachineLearning #DataScience #BigData #AI #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Programming #Coding #100DaysofCode #NLP #webdevelopment #Python3
+ 34-)Check out the Artificial Intelligence magazine 'The AI Times' at link http://You can read magazines on front page. And subscribe to receive monthly issues on Artificial Intelligence. #artificialintelligence #ai #machinelearning #technology #datascience #python
+ 35-)How User Access Website In Web3 And How It Is Secured?#defi #Web3 #Blockchain #coding #javascript #python #programming #100DaysOfCode #100DaysOfWeb3 #Ethereum #Bitcoin
+ 36-)You right now#Python #javascript #programming #programminghumor #programmingmemes #Java
+ 37-)Day 72 of #100DaysOfCode in #Python via Udemy
+
+Topics:  Data Visualisation with Matplotlib: Programming Languages
+ 38-)12 high income skills to learn in 2022 ... #ML #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats #TensorFlow #JavaScript #ReactJS #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #golang #NLP #IoT #MLOps
+ 39-) Seaborn  Tutorial : Bivariate KDE Plot Jupyter notebook in second tweet.
+
+Check this out  #Datavisualization #programming #MachineLearning #DataScience #CodeNewbie #pythoncode #100daysofcode #pythontricks  #pythonprojects #python3  #100daysofcodechallenge #python
+ 40-)Are you a Data Analyst and do you find yourself toggling between #Python & #PowerBI?
+
+Let me show you a fast way how to embed your Power BI report inside of jupyter notebook using the IFrame library.Github: https://d-Power-BI-Report-in-Python-Iframe…What I do when I get bored.
+ 41-)No. 2559 programming meme #programmingjoke #code #coding #javascript #python #datascience #programming #programmer #joke #100daysofcode #webdev #webdevelopment #php #java #linux #css #programmingmemes #codinglife #codingpics #programmingjokes
+ 42-)Omniverse Conjecture
+Imagination  Algorithm 3D Render
+META Form NFTs @openseahttps://a-form-nft…New perspective of Computation design #Python #algorithm0.01 ETH Polygon Blockchain #NFTs#OpenSeaNFT #NFTFam@ChocoozLima_12 @KlatuBaradaNiko @OmerOmerol @ShibaArizona
