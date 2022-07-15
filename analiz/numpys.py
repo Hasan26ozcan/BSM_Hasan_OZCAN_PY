@@ -1,3 +1,5 @@
+#yapılan herşey aynı türde olmak zorunda
+
 import numpy as np
 #çok daha az yer kaplıyorlar ve çok daha hızlı çalışıyorlar
 
